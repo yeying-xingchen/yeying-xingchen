@@ -18,4 +18,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeying-xingchen&layout=compact)
 
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yeying-xingchen)
