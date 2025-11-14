@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=倘能生存，我当然仍要学习;有时候，是那些谁也想不到的人做着谁也想不到的事情。)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=倘能生存，我当然仍要学习)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=有时候，是那些谁也想不到的人做着谁也想不到的事情。)
 
 ## 欢迎！ 👋
 您好，我是夜影星辰，在校学生，初中生，位于湖北武汉，热爱计算机软件开发，嵌入式及网络安全相关研究。
