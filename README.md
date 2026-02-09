@@ -11,3 +11,8 @@
 ![Top Languages](./profile/top-langs.svg)
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yeying-xingchen)
+
+
+## 项目
+
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
