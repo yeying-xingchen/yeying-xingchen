@@ -15,4 +15,5 @@
 
 ## 项目
 
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+![Pinned](./profile/codefeatrue.svg)(https://github.com/hust-open-atom-club/codefeatrue)
+![Pinned](./profile/coding-store.svg)(https://github.com/hust-open-atom-club/coding-store)
