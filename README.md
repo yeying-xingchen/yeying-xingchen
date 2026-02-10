@@ -15,5 +15,5 @@
 
 ## 项目
 
-![Pinned](./profile/codefeatrue.svg)(https://github.com/hust-open-atom-club/codefeatrue)
-![Pinned](./profile/coding-store.svg)(https://github.com/hust-open-atom-club/coding-store)
+![Pinned](./profile/codefeatrue.svg)
+![Pinned](./profile/coding-store.svg)
