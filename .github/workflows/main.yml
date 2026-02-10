@@ -35,8 +35,16 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=readme-tools&repo=github-readme-stats
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          options: username=hust-open-atom-club&repo=coding-store
+          path: profile/coding-store.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=hust-open-atom-club&repo=codefeatrue
+          path: profile/codefeatrue.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
